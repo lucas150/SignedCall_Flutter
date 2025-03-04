@@ -1,6 +1,6 @@
-const String scAccountId = "YOUR_ACCOUNT_ID";
-const String scApiKey = "YOUR_API_KEY";
-const String keyAccountId = "accountId";
+const String scAccountId = "6568502216033fcfba4cfc76";
+const String scApiKey = "uXFsHxBseCIUgDqU5kKLpgLR6KO7ZUmY5ObZqs1p5ox4vlxxTKxfHUiewEhCZgTN";
+const String keyAccountId = "8R5-RR4-R56Z";
 const String keyApiKey = "apiKey";
 const String keyCuid = "cuid";
 const String keyProduction = "production";
