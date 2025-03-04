@@ -52,13 +52,13 @@
             android:value="2" />
 
         <meta-data
-            android:name="CLEVERTAP_ACCOUNT_ID"
-            android:value="8R5-RR4-R56Z"/>
-        <meta-data
-            android:name="CLEVERTAP_TOKEN"
-            android:value="422-52b"/>
-        <meta-data
-            android:name="CLEVERTAP_REGION"
-            android:value="in1"/>
+        android:name="CLEVERTAP_ACCOUNT_ID"
+        android:value="679-8Z7-W66Z"/>
+    <meta-data
+        android:name="CLEVERTAP_TOKEN"
+        android:value="a1b-ca6"/>
+    <meta-data
+        android:name="CLEVERTAP_REGION"
+        android:value="sk1"/>
     </application>
 </manifest>
